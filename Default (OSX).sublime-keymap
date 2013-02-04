@@ -1,0 +1,9 @@
+[
+	{
+		"keys":["g", "v"], 
+		"command": "reselect",
+		"context":[
+			{"key":"setting.command_mode"}
+		]
+	}
+]
